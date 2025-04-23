@@ -1,9 +1,8 @@
 # CareerVista
-# Mentor Mind
 
 ## Introduction
 
-**Mentor Mind** is an AI-powered skill development and career guidance platform designed to help users navigate their learning journey and professional growth effectively. By leveraging AI-driven recommendations, personalized roadmaps, and interactive mentorship, Mentor Mind provides users with structured guidance to acquire new skills and explore career opportunities.
+**CareerVista** is an AI-powered skill development and career guidance platform designed to help users navigate their learning journey and professional growth effectively. By leveraging AI-driven recommendations, personalized roadmaps, and interactive mentorship, Mentor Mind provides users with structured guidance to acquire new skills and explore career opportunities.
 
 ## Features
 
